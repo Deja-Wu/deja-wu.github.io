@@ -1,17 +1,15 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
+	<id>com.dejawu.launchinsafemode_1.0.3-3_iphoneos-arm</id>
 	<name>LaunchInSafeMode</name>
 	<version>1.0.3-3</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>7.0</maxiOS>
-			<otherVersions>unsupported</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
+			<miniOS>7.0</miniOS>
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
 	<descriptionlist>
 		<description>Compatible with iOS 10 and 11
 
@@ -19,10 +17,15 @@ Using an added Force Touch shortcut, This tweak will allow you to launch an appl
 
 Configure options from Settings.</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<description>Launch any application in SafeMode</description>
+			<image>launchinsafemode1.jpg</image>
+		</screenshot>	
+	</screenshots>
 	<changelog>
-		<change>iOS 11 support</change>
-		<change>iPhone 7+ support</change>
+		<change>v1.0.3-3</change>
+		<change>iPhone7+ support</change>
+		<change>iOs 11 support</change>
 	</changelog>
-	<links></links>
 </package>

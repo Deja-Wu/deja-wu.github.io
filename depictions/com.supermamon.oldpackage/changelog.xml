@@ -4,4 +4,8 @@
 		<change>iOS 11 support</change>
 		<change>iPhone 7+ support</change>
 	</changes>
+	<changes>
+		<version>1.0.2-33</version>
+		<change>Initial Release</change>
+	</changes>
 </changelog>
