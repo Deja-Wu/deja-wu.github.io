@@ -19,7 +19,12 @@ Using an added Force Touch shortcut, this tweak will allow you to launch an appl
 
 Configure options from Settings.</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<description>Use Force Touch to launch app in SafeMode</description>
+			<image>launchinsafemode1.jpg</image>
+		</screenshot>
+	</screenshots>
 	<changelog>
 		<change>iOS 11 support</change>
 		<change>iPhone 7+ support</change>
