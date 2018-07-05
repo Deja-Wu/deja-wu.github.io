@@ -1,7 +1,7 @@
 <package>
 	<id>com.supermamon.oldpackage</id>
-	<name>Old Package</name>
-	<version>1.0.0-1</version>
+	<name>SmartLPM (Low Power Mode)</name>
+	<version>0.1-9</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>7.0</maxiOS>
@@ -13,11 +13,11 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>Create battery percentage thresholds to activate Low Power Mode toggle </description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Coming Soon!</change>
 	</changelog>
 	<links></links>
 </package>
