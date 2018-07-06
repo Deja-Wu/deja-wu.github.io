@@ -5,6 +5,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Version: 1.0.3-3
 Filename: com.dejawu.launchinsafemode_1.0.3-3_iphoneos-arm
+Size: 19,796
 MD5sum: b1cc9e7aa9a0ba8bd54b538d3cc7ea6e
 Description: Compatible with iOS 10 and 11
 
