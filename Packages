@@ -13,18 +13,4 @@ Using an added Force Touch shortcut, This tweak will allow you to launch an appl
 
 Configure options from Settings.
 Name: LaunchInSafeMode
-Author: deja-wu <dejawu@protonmail.com>
-
-Package:  
-Section: 
-Maintainer:
-Version: 
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: 
-Size: 
-MD5sum: 
-Description: 
-Name: 
-Author: 
-Depiction: 
+Author: deja-wu <dejawu@protonmail.com> 
