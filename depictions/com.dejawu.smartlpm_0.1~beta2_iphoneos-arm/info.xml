@@ -1,5 +1,5 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
+	<id>com.dejawu.smartlpm_0.1~beta2_iphoneos-arm</id>
 	<name>SmartLPM (Low Power Mode)</name>
 	<version>0.1-9</version>
 	<compatibility>
@@ -17,7 +17,8 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Coming Soon! (iOS 11 support)</change>
+		<change>Initial launch</change>
+		<change>iOS 11 support</change>
 	</changelog>
 	<links></links>
 </package>
