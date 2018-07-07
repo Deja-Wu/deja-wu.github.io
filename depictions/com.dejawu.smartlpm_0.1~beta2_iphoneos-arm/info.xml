@@ -4,7 +4,7 @@
 	<version>0.1-9</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>7.0</maxiOS>
+			<maxiOS>11.1.2</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -13,11 +13,20 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
+<<<<<<< HEAD:depictions/com.dejawu.smartlpm_0.1~beta2_iphoneos-arm/info.xml
 		<description>Create battery percentage thresholds to activate Low Power Mode toggle </description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
 		<change>Coming Soon!</change>
+=======
+		<description>Set battery percentage thresholds to toggle system Low Power Mode on/off.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial launch</change>
+		<change>iOS 11 support</change>
+>>>>>>> 64964e9160ce300d9cef5db50112088aae11be5b:depictions/com.dejawu.smartlpm_0.1~beta2_iphoneos-arm/info.xml
 	</changelog>
 	<links></links>
 </package>
