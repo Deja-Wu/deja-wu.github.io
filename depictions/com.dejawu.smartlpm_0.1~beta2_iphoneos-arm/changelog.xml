@@ -1,6 +1,12 @@
 <changelog>
 	<changes>
+<<<<<<< HEAD
+		<version>1.0.3-3</version>
+		<change>iOS 11 support</change>
+		<change>iPhone 7+ support
+=======
 		<version>0.1-9</version>
 		<change>Coming Soon! (iOS 11 support)</change>
+>>>>>>> 64964e9160ce300d9cef5db50112088aae11be5b
 	</changes>
 </changelog>
