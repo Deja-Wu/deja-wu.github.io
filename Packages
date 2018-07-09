@@ -4,7 +4,7 @@ Section: Utilities
 Maintainer: Deja-Wu <dev.dejawu@gmail.com>
 Depends: firmware (>10.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.dejawu.launchinsafemode_1.0.3-3_iphoneos-arm.deb
+Filename: debs/com.dejawu.launchinsafemode_1.0.3-3_iphoneos-arm.deb
 Size: 19796
 MD5sum: b1cc9e7aa9a0ba8bd54b538d3cc7ea6e
 SHA1: C2EF6CD8F018805BCF432B9D3BBF83C8F679DFB7
