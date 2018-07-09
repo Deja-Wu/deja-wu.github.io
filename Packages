@@ -1,0 +1,17 @@
+Package: com.dejawu.launchinsafemode_1.0.3-3_iphoneos-arm
+Version: 1.0.3-3
+Section: Utilities
+Maintainer: Deja-Wu <dev.dejawu@gmail.com>
+Depends: firmware (>7.0)(<11.2.6), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.dejawu.launchinsafemode_1.0.3-3_iphoneos-arm.deb
+Size: 19796
+MD5sum: b1cc9e7aa9a0ba8bd54b538d3cc7ea6e
+SHA1: C2EF6CD8F018805BCF432B9D3BBF83C8F679DFB7
+SHA256: 91FB411C13544AC3E4BC61820EEF8115A8CF05FB29391A952FA8F425095A5A2D
+Description: Compatible with iOS 10 and 11. Using an added Force Touch shortcut, This tweak will allow you to launch an application in "safe mode", resulting in no extensions, tweaks, and anything else loaded by CydiaSubstrate being loaded into the app. Configure options from Settings.
+Name: LaunchInSafeMode
+Author: Deja-Wu <dev.dejawu@gmail.com>
+Depiction: https://deja-wu.github.io/depictions/?p=com.dejawu.launchinsafemode_1.0.3-3_iphoneos-arm
+
+
