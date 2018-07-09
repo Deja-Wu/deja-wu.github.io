@@ -14,4 +14,19 @@ Name: LaunchInSafeMode
 Author: Deja-Wu <dev.dejawu@gmail.com>
 Depiction: https://deja-wu.github.io/depictions/?p=com.dejawu.launchinsafemode_1.0.3-3_iphoneos-arm
 
+Package: com.dejawu.smartlpm_0.1~beta2_iphoneos-arm
+Version: 0.1~beta2_iphoneos-arm
+Section: Utilities
+Maintainer: Deja-Wu <dev.dejawu@gmail.com>
+Depends: firmware (>7.0)(<11.2.6), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.dejawu.smartlpm_0.1~beta2_iphoneos-arm.deb
+Size: 15884
+MD5sum: 0ce5b1631dd386acdc7809aa92170238
+SHA1: 5D642177744A88C0C6A6068AD4A437B0A6D12FDB
+SHA256: BF047F4D48DC36C32CDCF35F8357C123CD2CB98AB52762C669C46BA095F97CE1
+Description: Set battery percentage thresholds to toggle system Low Power Mode on/off.
+Name: SmartLPM
+Author: Deja-Wu <dev.dejawu@gmail.com>
+Depiction: https://deja-wu.github.io/depictions/?p=com.dejawu.smartlpm_0.1~beta2_iphoneos-arm
 
