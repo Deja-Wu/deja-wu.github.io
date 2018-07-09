@@ -1,28 +1,32 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Package: com.dejawu.launchinsafemode_1.0.3-3_iphoneos-arm
+Version: 1.0.3-3
+Section: Utilities
+Maintainer: Deja-Wu <dev.dejawu@gmail.com>
+Depends: firmware (>7.0)(<11.2.6), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Filename: ./debs/com.dejawu.launchinsafemode_1.0.3-3_iphoneos-arm.deb
+Size: 19796
+MD5sum: b1cc9e7aa9a0ba8bd54b538d3cc7ea6e
+SHA1: C2EF6CD8F018805BCF432B9D3BBF83C8F679DFB7
+SHA256: 91FB411C13544AC3E4BC61820EEF8115A8CF05FB29391A952FA8F425095A5A2D
+Description: Compatible with iOS 10 and 11. Using an added Force Touch shortcut, This tweak will allow you to launch an application in "safe mode", resulting in no extensions, tweaks, and anything else loaded by CydiaSubstrate being loaded into the app. Configure options from Settings.
+Name: LaunchInSafeMode
+Author: Deja-Wu <dev.dejawu@gmail.com>
+Depiction: https://deja-wu.github.io/depictions/?p=com.dejawu.launchinsafemode_1.0.3-3_iphoneos-arm
 
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Package: com.dejawu.smartlpm_0.1~beta2_iphoneos-arm
+Version: 0.1~beta2_iphoneos-arm
+Section: Utilities
+Maintainer: Deja-Wu <dev.dejawu@gmail.com>
+Depends: firmware (>7.0)(<11.2.6), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Filename: ./debs/com.dejawu.smartlpm_0.1~beta2_iphoneos-arm.deb
+Size: 15884
+MD5sum: 0ce5b1631dd386acdc7809aa92170238
+SHA1: 5D642177744A88C0C6A6068AD4A437B0A6D12FDB
+SHA256: BF047F4D48DC36C32CDCF35F8357C123CD2CB98AB52762C669C46BA095F97CE1
+Description: Set battery percentage thresholds to toggle system Low Power Mode on/off.
+Name: SmartLPM
+Author: Deja-Wu <dev.dejawu@gmail.com>
+Depiction: https://deja-wu.github.io/depictions/?p=com.dejawu.smartlpm_0.1~beta2_iphoneos-arm
 
