@@ -2,7 +2,7 @@ Package: com.dejawu.launchinsafemode_1.0.3-3_iphoneos-arm
 Version: 1.0.3-3
 Section: Utilities
 Maintainer: Deja-Wu <dev.dejawu@gmail.com>
-Depends: firmware (>7.0)(<11.2.6), mobilesubstrate
+Depends: firmware (>10.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dejawu.launchinsafemode_1.0.3-3_iphoneos-arm.deb
 Size: 19796
