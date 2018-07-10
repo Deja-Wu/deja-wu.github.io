@@ -1,10 +1,10 @@
-Package: com.dejawu.launchinsafemode_1.0.3-3_iphoneos-arm
-Version: 1.0.3-3
+Package: com.inoahdev.launchinsafemode_1.0.3-3_iphoneos-arm
 Section: Utilities
 Maintainer: Deja-Wu <dev.dejawu@gmail.com>
+Version: 1.0.3-3
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.dejawu.launchinsafemode_1.0.3-3_iphoneos-arm.deb
+Filename: ./debs/com.inoahdev.launchinsafemode_1.0.3-3_iphoneos-arm.deb
 Size: 19796
 MD5sum: b1cc9e7aa9a0ba8bd54b538d3cc7ea6e
 SHA1: C2EF6CD8F018805BCF432B9D3BBF83C8F679DFB7
@@ -13,5 +13,20 @@ Description: Compatible with iOS 10 and 11. Using an added Force Touch shortcut,
 Name: LaunchInSafeMode
 Author: Deja-Wu <dev.dejawu@gmail.com>
 Depiction: https://deja-wu.github.io/depictions/?p=com.dejawu.launchinsafemode_1.0.3-3_iphoneos-arm
+
+Package: com.smokin1337.smartlpm_1.0.7_iphoneos-arm
+Section: Utilities
+Maintainer: Deja-Wu <dev.dejawu@gmail.com>
+Version: 1.0.7
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.smokin1337.smartlpm_1.0.7_iphoneos-arm.deb
+Size: 15884
+MD5sum: 0CE5B1631DD386ACDC7809AA92170238
+SHA1: 5D642177744A88C0C6A6068AD4A437B0A6D12FDB
+SHA256: BF047F4D48DC36C32CDCF35F8357C123CD2CB98AB52762C669C46BA095F97CE1
+Description: Toggle system Low Power Mode (LPM) on/off by set battery percentage thresholds.
+Name: SmartLPM
+Depiction: https://deja-wu.github.io/depictions/?p=com.dejawu.smartlpm_1.0.7_iphoneos-arm
 
 
